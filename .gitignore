@@ -1,0 +1,10 @@
+.idea
+.git
+*.iml
+target
+file
+txts
+/*.log.*
+*.log
+logs
+.mvn
